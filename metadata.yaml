@@ -1,0 +1,35 @@
+_repo: Wild-Flowers-Worth-Knowing_8866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanchan, Neltje
+    aliases:
+    - Doubleday, Nellie Blanchan De Graff
+    - Blanchon, Neltje
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '738'
+    url: http://www.gutenberg.org/2009/agents/738
+    wikipedia: http://en.wikipedia.org/wiki/Neltje_Blanchan
+  editor:
+    agent_name: Dickinson, Asa Don
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '1678'
+    url: http://www.gutenberg.org/2009/agents/1678
+description: Adapted from Nature's Garden by Asa Don Dickinson
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wild flowers -- North America'
+- !lcc 'QK'
+- GITenberg
+title: Wild Flowers Worth Knowing
+url: http://www.gutenberg.org/ebooks/8866
